@@ -1,5 +1,5 @@
 # Hey 👋, I'm Nemanja
-🔭 <em>I’m currently working on:</em><br>A fitness gamification app and an AI assistant connected to touch-pad.<br><br>👯‍♂️ <em>I’m looking to collaborate on:</em><br>Exciting app ideas, AI/ML-based projects, and anything music-related!<br><br>⚡ <em>Fun fact:</em><br>At the moment I’m turning fitness into a game and robots into reality—also, my guitar skills are definitely (not) out of this world!
+🔭 <em>I’m currently working on:</em><br>A fitness gamification app and an AI assistant in body of a small robot.<br><br>👯‍♂️ <em>I’m looking to collaborate on:</em><br>Exciting app ideas, AI/ML-based projects, and anything music-related!<br><br>⚡ <em>Fun fact:</em><br>At the moment I’m turning fitness into a game and robots into reality—also, my guitar skills are definitely (not) out of this world!
 
 
 ## 🌐 Socials:
