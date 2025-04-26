@@ -1,11 +1,11 @@
 # Hey👋, I'm Nemanja
-<ul>🔬 <strong><em>Current Projects: </em></strong>
+<ul><h1>🔬 <strong><em>Current Projects: </em></strong></h1>
 
 <li>Developing a gamified fitness app to make healthy living more engaging and accessible.</li>
 
-<li>Engineering an AI assistant integrated into a robotic platform for real-world interaction.</li></ul>
+<li>Engineering an AI assistant integrated into a robotic platform for real-world interaction.</li></ul><br>
 
-<ul>🤝 <strong><em>Open for Collaboration: </em></strong>
+<ul><h1>🤝 <strong><em>Open for Collaboration: </em></strong></h1>
 
 <li>Innovative mobile and web applications</li>
 
