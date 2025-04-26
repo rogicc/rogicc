@@ -1,5 +1,17 @@
 # Hey 👋, I'm Nemanja
-🔭 <em>I’m currently working on:</em><br>A fitness gamification app and an AI assistant in body of a small robot.<br><br>👯‍♂️ <em>I’m looking to collaborate on:</em><br>Exciting app ideas, AI/ML-based projects, and anything music-related!<br><br>⚡ <em>Fun fact:</em><br>At the moment I’m turning fitness into a game and AI robots into reality plus I am training for my first <em>Ironman 70.3</em>—also, my guitar skills are definitely <strong>(not)</strong> out of this world!
+🔬 <em>Current Projects: </em>
+
+Developing a gamified fitness app to make healthy living more engaging and accessible.
+
+Engineering an AI assistant integrated into a robotic platform for real-world interaction.
+
+🤝 <em>Open for Collaboration: </em>
+
+Innovative mobile and web applications
+
+AI/ML research and development
+
+Music-related tech projects and creative ventures
 
 
 ## 🌐 Socials:
