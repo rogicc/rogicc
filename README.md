@@ -3,7 +3,7 @@
 
 <li>Developing a gamified fitness app to make healthy living more engaging and accessible.</li>
 
-<li>Engineering an AI assistant integrated into a robotic platform for real-world interaction.</li></ul><br>
+<li>Engineering an AI assistant integrated into a robotic platform for real-world interaction.</li></ul>
 
 <ul><h1>🤝 <strong><em>Open for Collaboration: </em></strong></h1>
 
