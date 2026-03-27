@@ -3,7 +3,7 @@
 ## 💻 Current Work
 - Developing **mobile and web applications** with focus on clean design and usability.
 - Creating intuitive **UI/UX designs** for apps and websites.
-- Working on **music- and tech-related projects**, including video editing and multimedia production.
+- Working on **music and tech-related projects**, including video editing and multimedia production.
 - Implementing and maintaining **smart technology systems**: modern intercoms, servers, apps for smart gyms, CCTV systems, and other integrated solutions.
 
 
