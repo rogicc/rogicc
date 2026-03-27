@@ -1,17 +1,11 @@
-# Hey👋, I'm Nemanja
-<ul><h1>🔬 <strong><em>Current Projects: </em></strong></h1>
+# Hi 👋, I'm Nemanja
 
-<li>Developing a gamified fitness app to make healthy living more engaging and accessible.</li>
+## 💻 Current Work
+- Developing **mobile and web applications** with focus on clean design and usability.
+- Creating intuitive **UI/UX designs** for apps and websites.
+- Working on **music- and tech-related projects**, including video editing and multimedia production.
+- Implementing and maintaining **smart technology systems**: modern intercoms, servers, apps for smart gyms, CCTV systems, and other integrated solutions.
 
-<li>Engineering an AI assistant integrated into a robotic platform for real-world interaction.</li></ul>
-
-<ul><h1>🤝 <strong><em>Open for Collaboration: </em></strong></h1>
-
-<li>Innovative mobile and web applications</li>
-
-<li>AI/ML research and development</li>
-
-<li>Music-related tech projects and creative ventures</li></ul>
 
 
 ## 🌐 Socials:
